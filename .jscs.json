@@ -18,7 +18,7 @@
   "disallowTrailingComma": null,
   "requireSpacesInsideObjectBrackets": "all",
   "requireEarlyReturn": false,
-  
+
   "excludeFiles": [
     "node_modules/**",
     "test/**",
